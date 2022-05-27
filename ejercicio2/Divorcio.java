@@ -1,5 +1,9 @@
 package ejercicio2;
 
+/*
+ * En esta clase Java definimos el objeto Divorcio, formado por el nombre de la provincia y el 
+ * número de divorcios de esta.
+ */
 public class Divorcio {
 	private String provincia;
 	private int numDivorcios;
